@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>718943643013-ir1jfodbd4883qcj4u27il1m5kfeq4uk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.718943643013-ir1jfodbd4883qcj4u27il1m5kfeq4uk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBv5lwDkRRYmeFIznO4LUalrR5spUOEthU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>718943643013</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thaihoa311.friendsCircle</string>
+	<key>PROJECT_ID</key>
+	<string>friends-circle-672dc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>friends-circle-672dc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:718943643013:ios:d1677c6196bdcd59</string>
+	<key>DATABASE_URL</key>
+	<string>https://friends-circle-672dc.firebaseio.com</string>
+</dict>
+</plist>
